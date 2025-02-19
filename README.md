@@ -7,7 +7,7 @@ Repositório dedicado ao estudo de modelos matemáticos de dinâmica tumoral por
 ### Modelo de Murray
 Métodologias clássicas implementadas:
 - Diferenças Finitas (FDM) 
-- Método das Linhas (Mol)
 
 Métodologia baseada em deep learning:
 - PINNs (Physics-Informed Neural Networks)
+- DeepONet (Deep Operator Network)
