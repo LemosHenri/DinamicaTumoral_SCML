@@ -1,6 +1,6 @@
 # DinamicaTumoral_SCML
 
-Repositório dedicado ao estudo de modelos matemáticos de dinâmica tumoral por meio de métodos numéricos classicos e metodologias baseadas em deep learning.
+Repositório dedicado ao estudo de modelos matemáticos de dinâmica tumoral por meio de métodos numéricos classicos e metodologias baseadas em scientific machine learning (SciML).
 
 ## Estudos Realizados
 
